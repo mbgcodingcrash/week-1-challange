@@ -2,9 +2,11 @@
 
 
 GIVEN a webpage meets accessibility standards
-WHEN I view the source code  Adding correct 
+WHEN I view the source code  
 THEN I find semantic HTML elements
-HTML labes in header foorter article etc
+Adding correct HTML labes in header foorter article etc
+
+fixed bug with the link for search engine optimization not working. 
 
 
 WHEN I view the structure of the HTML elements
