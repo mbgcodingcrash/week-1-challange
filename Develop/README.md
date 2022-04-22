@@ -12,9 +12,13 @@ fixed bug with the link for search engine optimization not working.
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 
+Moves some of the CSS elements around to make more fall in order from top to bottom of page. 
+
 
 WHEN I view the image elements
 THEN I find accessible alt attributes
+
+Mad alt attributes for all images
 
 
 WHEN I view the heading attributes
