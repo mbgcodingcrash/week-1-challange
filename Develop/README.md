@@ -18,12 +18,14 @@ Moves some of the CSS elements around to make more fall in order from top to bot
 WHEN I view the image elements
 THEN I find accessible alt attributes
 
-Mad alt attributes for all images
-
+Made alt attributes for all images
 
 WHEN I view the heading attributes
 THEN they fall in sequential order
 
+theyre in order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+Has concise descriptive titile. 
